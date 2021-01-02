@@ -3,6 +3,7 @@ layout: post
 title: Volumes and Areas
 published: true
 ---
+{% include mathjax.html %}
 
 # The origin story
 I am always fascinated by the origins of different mathematical facts and theorems. 
